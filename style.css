@@ -1,0 +1,10 @@
+/* Senior Dev rule (locked) */
+#dangerous-id {
+    color: blue;
+    font-size: 20px;
+}
+
+/* Stronger rule using ID + Class */
+#dangerous-id.make-it-red {
+    color: red;
+}
